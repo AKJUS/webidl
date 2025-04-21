@@ -2,7 +2,7 @@
   "private": true,
   "description": "Checks that the WebIDL grammar is LL(1) and performs postprocessing",
   "devDependencies": {
-    "jsdom": "^22.1.0",
+    "jsdom": "^26.0.0",
     "syntax-cli": "0.1.27",
     "webidl-grammar-post-processor": "^1.0.1"
   },
